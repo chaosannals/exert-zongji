@@ -1,0 +1,30 @@
+{
+  "name": "exert-zongji",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "demo": "node demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaosannals/exert-zongji.git"
+  },
+  "keywords": [
+    "zongji",
+    "binlog"
+  ],
+  "author": {
+    "name": "chaosannals",
+    "email": "chaosannals@outlook.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaosannals/exert-zongji/issues"
+  },
+  "homepage": "https://github.com/chaosannals/exert-zongji#readme",
+  "dependencies": {
+    "zongji": "^0.5.1"
+  }
+}
